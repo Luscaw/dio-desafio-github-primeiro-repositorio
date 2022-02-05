@@ -1,0 +1,9 @@
+* Relembrando Git/Github
+
+- git clone: clona o projeto web para local
+- cd: para entrar na pasta do código
+- git status: mostra em qual branch você está e se possue algum commit novo, ou alteração
+- git add . ou git add -A: Adiciona as novas alterações, porém não vai ter subido para web
+- git commit -m "Mensagem": Comitar, como se mostrasse uma mensagem com titulo avisando o que houve no commit, ou alteração 
+- git push origin main(branch que eu quero enviar): subir as alterações local para web
+
